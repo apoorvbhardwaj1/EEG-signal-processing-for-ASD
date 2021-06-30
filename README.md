@@ -12,20 +12,22 @@ The EEG data is presented in .dat files.
 
  
 We need all these requirement in our system:
-Python
-Matlab
-EEGLAB
-Python interactive notebook(.ipynb)
-Numpy
-Pandas
-Matpoltlib
-Scikit-learn 
-Pywt
-Itertools
-Mne 
+1. Python
+2. Matlab
+3. EEGLAB
+4. Python interactive notebook(.ipynb)
+5. Numpy
+6. Pandas
+7. Matpoltlib
+8. Scikit-learn 
+9. Pywt
+10. Itertools
+11. Mne 
 
 Preprocessing - Matlab (EEGLAB)
+
 Feature Extraction - Python
+
 Classification - Python
 
 Instruction to run Project
