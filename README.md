@@ -10,6 +10,7 @@ EEG dataset from the King Abdulaziz University (KAU), Saudi Arabia is used in th
 The dataset was recorded in a relaxed state with 16-channel EEG at a sampling rate of 256 Hz.
 The EEG data is presented in .dat files.
 
+The .dat files were first accessed through the EEGLAB. Preprocessing is done over this data in EEGLAB and then its is converted into .edf format. Further these .edf files are converted to .csv for the feature extraction and classification task.
  
 We need all these requirement in our system:
 1. Python
